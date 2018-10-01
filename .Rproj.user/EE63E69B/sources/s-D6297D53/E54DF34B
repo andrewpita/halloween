@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1538417085120.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "E54DF34B",
+    "lastKnownWriteTime" : 1538417197,
+    "last_content_update" : 1538417197552,
+    "path" : "~/Desktop/halloween/R/plot_candy.R",
+    "project_path" : "R/plot_candy.R",
+    "properties" : {
+        "cursorPosition" : "15,10",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
